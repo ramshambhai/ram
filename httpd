@@ -1,5 +1,5 @@
 #!/bin/bash
 yum install httpd -y
 service httpd start
-echo "Hi" > /var/www/html/index.html
+sudo echo "Hi" > /var/www/html/index.html
 
