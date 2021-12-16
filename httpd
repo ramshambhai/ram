@@ -1,5 +1,4 @@
 #!/bin/bash
-yum install httpd -y
-service httpd start
-sudo echo "Hi" > /var/www/html/index.html
+sudo yum install httpd -y
+sudo service httpd stop
 
