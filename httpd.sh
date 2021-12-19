@@ -1,3 +1,3 @@
 #!/bin/bash
-sudo service httpd start
+sudo yum remove httpd -y
 
