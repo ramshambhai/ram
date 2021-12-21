@@ -1,3 +1,3 @@
 #!/bin/bash
-cp /root/test1 /tmp 
+sudo cp /root/test1 /tmp 
 
