@@ -1,4 +1,3 @@
 #!/bin/bash
-yum remove httpd -y
-echo "namashte"
+cp /root/test1 /tmp 
 
