@@ -1,3 +1,3 @@
 #!/bin/bash
-yum remove httpd -y 
+sudo yum remove httpd -y 
 
