@@ -1,3 +1,3 @@
 #!/bin/bash
-sudo cp /root/test1 /tmp 
+yum install httpd -y 
 
