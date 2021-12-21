@@ -1,4 +1,5 @@
 #!/bin/bash
-sudo yum remove httpd -y
+sudo bash
+yum remove httpd -y
 echo "namashte"
 
